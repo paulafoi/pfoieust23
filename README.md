@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>That's me</title>
-    <style>
-        /* Add some basic styling */
-        body { font-family: Arial, sans-serif; line-height: 1.6; }
-        .container { width: 80%; margin: auto; overflow: hidden; }
-        h1, h2, h3 { color: #333; }
-        p, ul { color: #666; }
-        a { color: #333; text-decoration: none; }
-    </style>
-</head>
-<body>
+
     <div class="container">
         <h1>Hi, I'm Paula!👋</h1>
 
@@ -67,5 +54,3 @@
             <p>⭐️ From <a href="Your GitHub URL">[Your GitHub Username]</a></p>
         </footer>
     </div>
-</body>
-</html>
