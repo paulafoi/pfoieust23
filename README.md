@@ -7,16 +7,13 @@ I'm a dedicated professional with a passion for tech-driven entrepreneurship and
 - 🎓 Currently pursuing a Master of Science in Computer Science aiming to blend my entrepreneurial spirit with technological acumen to create a lasting impact.
 - 🍳 A passionate cook, 🚴‍♀️ spinning enthusiast, and 🌍 eager traveler. I embrace new experiences and challenges daily.
 
-## 👨‍💻 Technical Skills
-- Basic Knowledge in Web Development with HTML, CSS, JavaScript & No-Code solutions.
-- Experienced in Product Management, understanding the full lifecycle from concept to deployment.
-- Skilled in using CRM systems and implementing automations with tools like Zapier.
 
 ## 👨‍💻 Technical Skills
-- ![HTML](HTML_Logo_URL) ![CSS](CSS_Logo_URL) ![JavaScript](JavaScript_Logo_URL) Basic knowledge in Web Development with HTML, CSS, JavaScript & No-Code solutions.
-- ![CRM](CRM_Logo_URL) Skilled in using CRM systems and implementing automations with tools like Zapier ![Zapier](Zapier_Logo_URL).
-- ![Java](Java_Logo_URL) Familiar with Java basics, and currently enhancing my proficiency in Python ![Python](Python_Logo_URL) and SQL ![SQL](SQL_Logo_URL).
-- ![Google Cloud](Google_Cloud_Logo_URL) Knowledgeable in concepts of Google Cloud.
+- <img src="https://simpleicons.org/icons/html5.svg" alt="HTML" width="20"/> <img src="https://simpleicons.org/icons/css3.svg" alt="CSS" width="20"/> <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="20"/> Basic knowledge in Web Development with HTML, CSS, JavaScript & No-Code solutions.
+- <img src="https://simpleicons.org/icons/zapier.svg" alt="Zapier" width="20"/> Skilled in using CRM systems and implementing automations with tools like Zapier.
+- <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="20"/> Familiar with Java basics, and currently enhancing my proficiency in Python <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="20"/> and SQL <img src="https://simpleicons.org/icons/mysql.svg" alt="SQL" width="20"/>.
+- <img src="https://simpleicons.org/icons/googlecloud.svg" alt="Google Cloud" width="20"/> Knowledgeable in concepts of Google Cloud.
+
 
 
 <!-- Replace with your actual user content -->
