@@ -15,6 +15,7 @@ I'm a dedicated professional with a passion for tech-driven entrepreneurship and
 - <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="20"/> Familiar with Java basics, and currently enhancing my proficiency in Python <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="20"/> and SQL <img src="https://simpleicons.org/icons/mysql.svg" alt="SQL" width="20"/>.
 - <img src="https://simpleicons.org/icons/googlecloud.svg" alt="Google Cloud" width="20"/> Knowledgeable in concepts of Google Cloud.
 
-
+## 🤝 Let's Connect
+I'm always open to connecting with like-minded professionals and exploring new opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/paula-foitzik-793a78150/).
 
 <!-- Replace with your actual user content -->
